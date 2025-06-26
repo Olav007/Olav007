@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This profile is mostly private stuff that is public because it is easier that way.
+
+I have one repository, meditation-timer, which is meant for sharing.
+
+powerplant-coding-challenge and TempControl are coding challenges.
+
+
+
